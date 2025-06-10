@@ -4,19 +4,30 @@ AI-driven Q&A to promote active learning.A Flashcard Generation module that auto
 # PREREQUISITES 
 Before starting, ensure you have: 
 • Python 3.8 or higher installed 
+
 • At least 8GB of RAM 
-• Stable internet connection (for initial model downloads) 
+
+• Stable internet connection (for initial model downloads)
+ 
 • 5GB free disk space 
+
 # Module Features 
 1. Interactive Edu Module: 
+
 • Upload PDF → Extract text  
 • Interactive slides with animations 
 • Visual content presentation 
+
 2. Textbook Conversion Module: 
+
 • PDF → Summary + Keywords + Mind maps 
 • Interactive Q&A system 
 • Topic visualization 
+
 3. Flashcard Generator Module: 
+
 • Auto-generate quiz questions from PDF 
 • Interactive multiple-choice interface 
 • Progress tracking and scoring 
+
+
