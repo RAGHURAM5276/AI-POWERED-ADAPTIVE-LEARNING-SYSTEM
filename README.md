@@ -3,6 +3,7 @@ The AI-Powered Adaptive Learning System is an intelligent educational platform t
 AI-driven Q&A to promote active learning.A Flashcard Generation module that automatically converts extracted content into studyfriendly formats such as multiplechoice questions and to support revision and retention. By leveraging natural language processing, machine learning, and document intelligence, the system adapts to each learner’s pace and preferences, aiming to improve comprehension, retention, and engagement in digital education
 # PREREQUISITES 
 Before starting, ensure you have: 
+
 • Python 3.8 or higher installed 
 
 • At least 8GB of RAM 
@@ -14,20 +15,26 @@ Before starting, ensure you have:
 # Module Features 
 1. Interactive Edu Module: 
 
-• Upload PDF → Extract text  
+• Upload PDF → Extract text 
+ 
 • Interactive slides with animations 
+
 • Visual content presentation 
 
 2. Textbook Conversion Module: 
 
 • PDF → Summary + Keywords + Mind maps 
+
 • Interactive Q&A system 
+
 • Topic visualization 
 
 3. Flashcard Generator Module: 
 
 • Auto-generate quiz questions from PDF 
+
 • Interactive multiple-choice interface 
+
 • Progress tracking and scoring 
 
 
